@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+  }
+div.form {
+  width: 300px;
+  border: 5px solid tomato;
+  margin: 25px;
+  padding: 15px;
+}
+div.form label{
+    width: 100%;
+  }
+div.form input {
+    width: 100%;
+    border: 2px solid black;
+    height: 35px;
+  }
+div.form button {
+  margin-top: 15px;
+  width: 100%;
+}
